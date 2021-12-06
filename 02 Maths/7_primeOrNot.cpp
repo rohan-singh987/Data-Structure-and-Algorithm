@@ -2,7 +2,7 @@
 //                 eg: 2,3,5,7,11,13........etc
 
 
-#include<iostream>
+#include<bits/stdc++.h>
 using namespace std;
 
 bool primeOrNot(int n)
