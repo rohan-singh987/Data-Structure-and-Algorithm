@@ -14,3 +14,11 @@
 
 
 ## Bits
+1. Bitwise Operator (And, Or, Xor)
+2. Bitwise Operator (Left shift, Right Shift, Not)
+3. Check Kth bit is set or not
+4. Count set bits
+5. Power of two
+6. One odd Occurance
+7. Two odd Occurance
+8. Power set 
