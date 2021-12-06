@@ -9,3 +9,8 @@
 6. LCM of two number
 7. Prime Or Not
 8. printing all the Prime Factors of a number
+9. Diviors of Number
+10. Sieve of Erastothenes
+
+
+## Bits
