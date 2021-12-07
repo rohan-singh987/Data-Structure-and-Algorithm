@@ -21,4 +21,19 @@
 5. Power of two
 6. One odd Occurance
 7. Two odd Occurance
-8. Power set 
+8. Power set
+
+
+## Recursion
+1. Introduction & Application
+2. Printing 1 to N
+3. Printing N to 1
+4. Tail recursion
+5. writting Base cases
+6. Sum of Natural number
+7. Checking Palindrome 
+8. Sum of Digit
+9. Rope Cutting Problem
+10. Generate Subsets
+11. Tower of Hanoi
+12. Josephus Problem
