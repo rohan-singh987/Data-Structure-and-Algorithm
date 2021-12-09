@@ -37,3 +37,11 @@
 10. Generate Subsets
 11. Tower of Hanoi
 12. Josephus Problem
+
+
+## Arrays
+1. Introduction
+2. Array Types
+3. Largest element
+4. Second Largest element
+5. 
