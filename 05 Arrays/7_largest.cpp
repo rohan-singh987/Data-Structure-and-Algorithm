@@ -47,9 +47,9 @@ int largest(int arr[], int n)
 
 int main(){
 
-    int arr[] = {5,8,10,2};
-    cout<<largest_naiveSol(arr,4)<<endl;
-    cout<<largest(arr,4)<<endl;
+    int arr[] = {5,8,10,12,4,31};
+    cout<<largest_naiveSol(arr,6)<<endl;
+    cout<<largest(arr,6)<<endl;
 
     return 0;
 

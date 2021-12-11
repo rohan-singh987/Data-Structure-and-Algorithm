@@ -44,4 +44,14 @@
 2. Array Types
 3. Largest element
 4. Second Largest element
-5. 
+5. Check if an array is sorted or not
+6. Reverse an array
+7. Remove dublicates from array
+8. Moving zeros to end
+9. Rotating array left by one
+10. Rotating array left by N
+11. Leaders in an array
+12. Maximum difference in order
+13. Frequency in sorted array
+14. Max consecutive one
+
