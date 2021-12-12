@@ -1,0 +1,44 @@
+STL  ( Standard Template Library)
+
+---> 1.Conatiners
+        --->Sequential (like arrays)
+            ---------->Vectors
+            ---------->Stack
+            ---------->Queue
+            ---------->pair
+        --->Ordered (values are in sorted array like ascending or desending)
+            ---------->Maps
+            ---------->Multimap
+            ---------->set
+            ---------->Multiset
+        --->UnOrdered ( Hashing concept)
+            ---------->UnOrdered Maps
+            ---------->UnOrdered Multimap
+        --->Nexted Conatiners (Conatiner k andr Conatiner)
+            ----------> vector <vector<int> >
+            ----------> map <int, vector<int> >
+            ----------> set <pair <int,string> >
+            ----------> vector <map <int, set<int> >>
+
+---> 2.Iterators(similar to pointers)
+        ---> point to memory address of Conatiners
+        ---> begin(), end()
+        ---> vector<int> :: iterator it;     (Declare krne ka tarika)
+        ---> Countinous and disCountinous Conatiner
+
+---> 3.Algorithm
+        --->upper bound
+        --->lower bound
+        --->sort(comparator)
+        --->max_element
+        --->min_element
+        --->accumlate
+        --->reverse
+        --->count
+        --->find
+        --->next_permutation
+        --->prev_permutation
+
+---> 4.Functors
+        --->classes which can act as function
+
