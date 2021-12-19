@@ -1,0 +1,23 @@
+/*
+    Mainly used to implement Dictionary, where we have key value pairs
+        search ---> O(1) on average
+        insert ---> O(1) on average
+        delete ---> O(1) on average
+
+
+    Not Usefull for
+                    ----> finding closest value ---: AVL tree or Red Black tree
+                    ----> sorted data   -----------: AVL tree or Red Black tree
+                    ----> prefix searching --------: Trie
+
+    Applications of Hashing
+                            ---> Dictionaries
+                            ---> Database Indexing
+                            ---> cryptography
+                            ---> cache
+                            ---> symbol table in compiler
+                            ---> Routers
+                            ---> getting data from databases and many more
+
+*/
+

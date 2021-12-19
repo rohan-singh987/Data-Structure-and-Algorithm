@@ -64,3 +64,6 @@
 5. Map, Unordered Map & MultiMap
 6. Set, Unordered Set & MultiSet
 7. Stack & Queues
+
+
+## Hashing
