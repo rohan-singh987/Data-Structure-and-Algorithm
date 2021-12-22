@@ -1,0 +1,18 @@
+Problems in Array :
+1. Either size is fixed or pre-allocated, the worst case insertion at the end is ø(n)
+2. Insertion in middle or beginning is costly
+3. Deletion from middle or beginning is costly
+4. Implementation of data struct like queue and dequeue is complex arrays
+
+eg-: How to implement Round Robin Scheduling
+    [10, 5,  3, 15, 10, 8]          Token Time = 5
+     p0, p1, p2, p3, p4, p5
+        
+    --> [5,  3, 15, 10,  8,  5]
+         p1, p2, p3, p4, p5, p0
+     
+    --> [3, 15, 10, 8, 5]
+        p2, p3, p4, p5, p0
+
+    --> [15, 10, 8, 5]
+        p3, p4, p5, p0
