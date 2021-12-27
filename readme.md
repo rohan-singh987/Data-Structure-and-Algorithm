@@ -66,4 +66,13 @@
 7. Stack & Queues
 
 
-## Hashing
+## Linked List
+###     Single Linked List
+        1. Implementation + Traversing(Iterative && Recursive)
+        2. Insert at beginning
+        3. Insert at end
+        4. Delete First Node
+        5. Delete Last Node
+        6. Insert at random postion(N)
+        7. Search in List
+
