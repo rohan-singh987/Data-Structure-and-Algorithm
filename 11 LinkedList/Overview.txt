@@ -16,3 +16,7 @@ eg-: How to implement Round Robin Scheduling
 
     --> [15, 10, 8, 5]
         p3, p4, p5, p0
+
+The idea is to drop the contiguos memory requirement so that insertion, deletion can be efficiently happen 
+    at the middle also and no need to pre-allocate the space (no extra nodes)
+    
