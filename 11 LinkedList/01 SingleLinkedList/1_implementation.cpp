@@ -18,10 +18,10 @@ void printList(Node *head)
     Node *curr = head;
     while (curr != NULL)
     {
-        cout<< (curr ->data) <<" ";
+        cout<< (curr ->data) <<" -> ";
         curr = curr ->next;
     }
-    cout<<endl;
+    cout<<"NULL"<<endl;
 }
 
 //  Recursive Transversing LinkedList
@@ -33,7 +33,7 @@ void print__list(Node *head)
         return;
     }
     else{
-        cout<< (curr ->data)<<" ";
+        cout<< (curr ->data)<<" -> ";
         print__list(curr ->next);
     }
 }

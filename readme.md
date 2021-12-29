@@ -76,3 +76,11 @@
         6. Insert at random postion(N)
         7. Search in List
 
+###     Doubly Linked List
+        1. Implemenattion + Traversing
+        2. Insert at beginning
+        3. Insert at end
+        4. Reversing Doubly Linked List
+        5. Delete First Node
+        6. Delete Last Node
+
