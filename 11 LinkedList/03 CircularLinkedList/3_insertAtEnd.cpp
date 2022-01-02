@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+
 struct Node
 {
     int data;
@@ -12,19 +13,29 @@ struct Node
     }
 };
 
-// For Loop
-void printList(Node *head)
+
+Node *insertEnd(Node *head, int n)
 {
-    if(head == NULL){return;}
-    cout<<head->data<<" -> ";
-    for (Node *i = head->next; i != head; i = i->next)
+    Node *temp = new Node(n);
+    if (head == NULL)
     {
-        cout<<i->data<<" -> ";
+        temp->next = temp;
+        return temp; 
     }
-    cout<<"head"<<endl;
+    else{
+        Node *curr = head;
+        while (curr->next != head)
+        {
+            curr = curr->next; 
+        }
+            curr->next = temp;
+            temp->next = head;
+        return head;
+    }
 }
 
-void print__list(Node *head)
+
+void printList(Node *head)
 {
     if (head == NULL)
     {
@@ -49,7 +60,9 @@ int main()
     head ->next ->next ->next ->next = head;
 
     printList(head);
-    print__list(head);
+
+    head = insertEnd(head, 55);
+    printList(head);
     
     return 0;
 }
