@@ -77,10 +77,29 @@
         7. Search in List
 
 ###     Doubly Linked List
-        1. Implemenattion + Traversing
+        1. Implementation + Traversing
         2. Insert at beginning
         3. Insert at end
         4. Reversing Doubly Linked List
         5. Delete First Node
         6. Delete Last Node
 
+###     Circular Linked List
+        1. Implementation + Traversing
+        2. Insert at beginning
+        3. Insert at end
+        4. Delete First Node
+        5. Delete Kth Node
+
+
+## Stack
+1. Implementation
+        1. Array Implementation
+        2. Vector Implementation
+        3. STL Implementation
+        4. Linked List Implementation
+2. Balanced Paranthesis
+3. Two Stack in an Array
+
+
+## Queue

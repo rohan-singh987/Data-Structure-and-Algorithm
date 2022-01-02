@@ -1,0 +1,19 @@
+Adding and removing of elements in stack should be from one end (weather from end or beginning) 
+
+
+.push(data);            To add item in stack 
+.size();                To know size of stack 
+.pop();                 To remove item from stack 
+.peek() || .top();                To know top of stack 
+.isEmpty();                To know weather stck is empty or not 
+
+
+
+Applications: 
+    1. Funtion calls
+    2. Checking for balanced paranthesis
+    3. Reversing items
+    4. Infix to Prefix/Postfix
+    5. Evaluaiton of Prefix/Postfix
+    6. Stock Span Problem and its variants;     {Very Important}
+    7. undo/Redo or Forward/Backward
