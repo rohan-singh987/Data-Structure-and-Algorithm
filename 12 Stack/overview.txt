@@ -1,6 +1,11 @@
 Adding and removing of elements in stack should be from one end (weather from end or beginning) 
 
 
+LIFO -> Last In First Out
+
+         [11| 22| 33| 44| 55]  <--push()  <--pop()
+         front             end
+
 .push(data);            To add item in stack 
 .size();                To know size of stack 
 .pop();                 To remove item from stack 
