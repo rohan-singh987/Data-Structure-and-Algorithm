@@ -1,0 +1,17 @@
+Adding and removing of elements in queue should be from opposite end
+element added first will remove first
+
+
+FIFO -> First In First Out
+
+  dequeue() <--  [11| 22| 33| 44| 55]  <-- enqueue()
+                front             end
+
+
+operations: 
+1. enqueue(data)
+2. dequeue()
+3. getFront()
+4. getRear()
+5. size()
+6. isEmpty()
