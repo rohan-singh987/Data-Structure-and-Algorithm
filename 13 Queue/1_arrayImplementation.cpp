@@ -27,7 +27,7 @@ struct myQueue
         
         void dequeue()
         {
-            if (isEmpty)
+            if (isEmpty())
             {
                 return;
             }
@@ -66,7 +66,7 @@ struct myQueue
             return (size == 0);
         }
 
-        int size()
+        int getSize()
         {
             return (cap);
         }
