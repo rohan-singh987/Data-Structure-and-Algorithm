@@ -1,5 +1,4 @@
 #include<iostream>
-#include<algorithm>
 using namespace std;
 
 int maxPieces(int n, int a, int b, int c)
