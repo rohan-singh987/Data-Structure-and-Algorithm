@@ -66,6 +66,14 @@
 7. Stack & Queues
 
 
+## Search
+1. Linear Search
+2. Binary Search (Iterative)
+3. Binary Search (Recursive)
+4. First occurance
+5. Last occurance
+
+
 ## Linked List
 ###     Single Linked List
         1. Implementation + Traversing(Iterative && Recursive)
