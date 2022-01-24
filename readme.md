@@ -101,11 +101,11 @@
 
 
 ## Stack
-1. Implementation
-        1. Array Implementation
-        2. Vector Implementation
-        3. STL Implementation
-        4. Linked List Implementation
+1. Implementation  
+        1. Array Implementation  
+        2. Vector Implementation  
+        3. STL Implementation  
+        4. Linked List Implementation  
 2. Balanced Paranthesis
 3. Two Stack in an Array
 
