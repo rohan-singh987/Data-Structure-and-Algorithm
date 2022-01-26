@@ -71,8 +71,10 @@
 2. Binary Search (Iterative)
 3. Binary Search (Recursive)
 4. First occurance
-5. Last occurance
-
+5. Power of two
+6. One odd Occurance
+7. Two odd Occurance
+8. Power set
 
 ## Linked List
 ###     Single Linked List
