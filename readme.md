@@ -77,6 +77,13 @@
 8. Square root
 9. Search in Infinte array
 
+
+## String 
+1. Introduction
+2. Frequency of character in string
+3. Check Palindrome
+
+
 ## Linked List
 ###     Single Linked List
         1. Implementation + Traversing(Iterative && Recursive)
