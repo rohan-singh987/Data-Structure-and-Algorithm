@@ -82,7 +82,11 @@
 1. Introduction
 2. Frequency of character in string
 3. Check Palindrome
-
+4. Check String is subsequence of other or not
+5. Check for Anagram
+6. Left Most Repeat
+7. Right Most Repeat
+8. Reverse Word in a string
 
 ## Linked List
 ###     Single Linked List
