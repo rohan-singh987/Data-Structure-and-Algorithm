@@ -12,7 +12,6 @@ struct Node
     }
 };
 
-// For Loop
 void printList(Node *head)
 {
     if(head == NULL){return;}
