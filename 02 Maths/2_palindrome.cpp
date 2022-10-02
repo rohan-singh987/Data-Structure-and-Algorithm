@@ -11,7 +11,7 @@
 #include<iostream>
 using namespace std;
 
-bool isPalindrome(int n)
+bool isPalindrome(int n)  
 {
     int rev = 0;
     int temp = n;
